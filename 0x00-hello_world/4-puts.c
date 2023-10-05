@@ -1,8 +1,3 @@
-/*
- * File: 4-puts.c
- * Auth: Anunda Shaun <saisishaun4@gmail.com>
- */
-
 #include <stdio.h>
 
 /**
