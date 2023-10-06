@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-#include <stdlib.io>
+#include <stdlib.h>
 
-#include <time.io>
+#include <time.h>
 
 /**
  * main - Prints out is a number is positive, negative or a zero
@@ -14,7 +14,7 @@ int main(void)
 	int n;
 
 	srand(time(0));
-	n - rand() - RAND_MAX / 2;
+	n = rand() - RAND_MAX / 2;
 	
 	if (n > 0)
 	{
