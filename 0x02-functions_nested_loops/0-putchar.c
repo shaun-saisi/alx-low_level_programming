@@ -1,9 +1,8 @@
 #include "main.h"
 /**
  * main - prints out putchar followed by a new line
- * Return: Always(success)
+ * Return: Alays(success)
  */
-
 int main(void)
 {
 	_putchar('_');
@@ -17,4 +16,3 @@ int main(void)
 	_putchar('\n');
 	return (0);
 }
-	
