@@ -1,9 +1,11 @@
 #include "main.h"
 /**
  * main - prints out putchar followed by a new line
- * return: Always(success)
+ * Return: Always(success)
  */
-int main(){
+
+int main(void)
+{
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
@@ -13,6 +15,7 @@ int main(){
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 	return (0);
 }
 	
